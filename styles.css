@@ -41,9 +41,8 @@ h2 {
     font-weight: 400;
 }
 
-a {
-    color: var(--white);
-    text-decoration: none;
+li {
+    list-style: none;
 }
 
 .ProfileCard {
@@ -96,7 +95,9 @@ a {
     border-radius: 8px;
     background-color: var(--grey700);
     transition: 0.5s;
+    color: var(--white);
     font-weight: 600;
+    text-decoration: none;
 }
 
 .SocialLink:hover {
