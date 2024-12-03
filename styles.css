@@ -41,6 +41,11 @@ h2 {
     font-weight: 400;
 }
 
+a {
+    color: var(--white);
+    text-decoration: none;
+}
+
 .ProfileCard {
     margin: 100px 24px;
     width: 300px;
